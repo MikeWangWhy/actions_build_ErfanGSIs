@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://get.pixelexperience.org/M3FzOG5CNVRXbDFHSEdWYU0vTmZyckhTb1NjeXcrSm9TeUNxVzJ4Sm5CVk03R0RrbzBHRjI2R2tNOGJ4bEplSUVlblVOajc2Y3lJTWRvUWE0MnpYTWl6aHVGb1VNNm1TTnpLZWJaOWhpKzA9/PixelExperience_Plus_guacamole-11.0-20211118-0940-OFFICIAL.zip
+  ROM_URL: https://get.pixelexperience.org/NENYUXc1QXhIMStrNHN2VmRVUW9OZHhFVzBGU1J3YitWRFdkOHRSOXNCZ3JZWnJaMGI5L0t0bDFyMFdMSndCQ0NPVldqbDZBd0VIdGozYlByWEZpWmJjRk9KdDY1UUo4djJhMkNyZ05xMWc9/PixelExperience_apollo-12.0-20220122-1853-OFFICIAL.zip
   ROM_NAME: PixelExperience
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
