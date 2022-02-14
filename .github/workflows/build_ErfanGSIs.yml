@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://get.pixelexperience.org/M3FzOG5CNVRXbDFHSEdWYU0vTmZyckhTb1NjeXcrSm9TeUNxVzJ4Sm5CVk03R0RrbzBHRjI2R2tNOGJ4bEplSUVlblVOajc2Y3lJTWRvUWE0MnpYTWl6aHVGb1VNNm1TTnpLZWJaOWhpKzA9/PixelExperience_Plus_guacamole-11.0-20211118-0940-OFFICIAL.zip
-  ROM_NAME: PixelExperience
+  ROM_URL: https://bigota.d.miui.com/V13.0.2.0.SKVCNXM/miui_MONA_V13.0.2.0.SKVCNXM_94db24489f_12.0.zip
+  ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
